@@ -1,0 +1,20 @@
+.p_filter_head{
+    background-color: #0d47a1;
+    color: white;
+    font-weight: 700;
+    line-height: 35px;
+    font-size: 24px;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 0;
+}
+.filter_head{
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 50px;
+    border-bottom: solid 1px #eaeaea;
+}
+.card-title{
+    color: #ff3d00;
+    font-weight: 700;
+}
